@@ -1,7 +1,7 @@
 # Mi Proyecto Streamlit
 
 ## Descripción
-Breve descripción de tu proyecto
+Streamlit de Datasets de Uber
 
 ## Instalación
 1. Crear entorno virtual: `python -m venv venv`
